@@ -89,7 +89,7 @@ export const Card = ({
 				boxShadow: 1,
 				paddingInline: 2,
 				paddingBlock: 4,
-				margin: { xs: "5px", md: "auto" },
+				margin: { xs: "15px", md: "auto" },
 				display: "flex",
 				gap: 1,
 				flexDirection: "column",

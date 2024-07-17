@@ -23,7 +23,7 @@ export const ResultCard = ({ contador, setVista, setIndice, setContador }) => {
 			<Typography variant="h4">¡Gracias por participar!</Typography>
 
 			<Typography sx={{ fontSize: 25 }}>
-				Tu resultado final es : {contador}
+				Tu resultado final es : {contador} / 5
 			</Typography>
 
 			<Typography>¿Quieres intentarlo de nuevo?</Typography>
